@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-SLDC/static/css/main.b110a2ef.css",
+    "main.js": "/portfolio-SLDC/static/js/main.8a6b6f20.js",
+    "static/js/592.33663a8d.chunk.js": "/portfolio-SLDC/static/js/592.33663a8d.chunk.js",
+    "index.html": "/portfolio-SLDC/index.html",
+    "main.b110a2ef.css.map": "/portfolio-SLDC/static/css/main.b110a2ef.css.map",
+    "main.8a6b6f20.js.map": "/portfolio-SLDC/static/js/main.8a6b6f20.js.map",
+    "592.33663a8d.chunk.js.map": "/portfolio-SLDC/static/js/592.33663a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b110a2ef.css",
+    "static/js/main.8a6b6f20.js"
+  ]
+}
